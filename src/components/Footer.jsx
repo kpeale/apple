@@ -11,7 +11,7 @@ const Footer = () => {
             <hr />
 
             <div className="links">
-                <p>© 2025 Kpeale | This is a UI clone for educational purposes only. Not affiliated with Apple Inc.</p>
+                <p>© 2025 Kpeale | This is a UI clone for educational purposes only and is not affliated with any company .</p>
 
                 <ul>
                     {footerLinks.map(({label, link }) => (
