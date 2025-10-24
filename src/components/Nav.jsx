@@ -7,7 +7,7 @@ const Nav = () => {
       <nav>
         <img
           src='/logo.svg'
-          alt='apple logo'
+          alt='logo'
         />
         <ul>
           {navLinks.map((link) => (
